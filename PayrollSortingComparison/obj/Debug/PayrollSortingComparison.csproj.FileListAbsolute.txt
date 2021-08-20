@@ -1,0 +1,14 @@
+D:\Programming 3\Portfolio\Q3\PayrollSortingComparison\PayrollSortingComparison\bin\Debug\PayrollSortingComparison.exe.config
+D:\Programming 3\Portfolio\Q3\PayrollSortingComparison\PayrollSortingComparison\bin\Debug\PayrollSortingComparison.exe
+D:\Programming 3\Portfolio\Q3\PayrollSortingComparison\PayrollSortingComparison\bin\Debug\PayrollSortingComparison.pdb
+D:\Programming 3\Portfolio\Q3\PayrollSortingComparison\PayrollSortingComparison\obj\Debug\PayrollSortingComparison.csprojAssemblyReference.cache
+D:\Programming 3\Portfolio\Q3\PayrollSortingComparison\PayrollSortingComparison\obj\Debug\PayrollSortingComparison.csproj.CoreCompileInputs.cache
+D:\Programming 3\Portfolio\Q3\PayrollSortingComparison\PayrollSortingComparison\obj\Debug\PayrollSortingComparison.exe
+D:\Programming 3\Portfolio\Q3\PayrollSortingComparison\PayrollSortingComparison\obj\Debug\PayrollSortingComparison.pdb
+E:\Documents\Tafe\Dip of Programming\Programming 3\Portfolio\Q3\PayrollSortingComparison\PayrollSortingComparison\obj\Debug\PayrollSortingComparison.csproj.AssemblyReference.cache
+E:\Documents\Tafe\Dip of Programming\Programming 3\Portfolio\Q3\PayrollSortingComparison\PayrollSortingComparison\obj\Debug\PayrollSortingComparison.csproj.CoreCompileInputs.cache
+E:\Documents\Tafe\Dip of Programming\Programming 3\Portfolio\Q3\PayrollSortingComparison\PayrollSortingComparison\obj\Debug\PayrollSortingComparison.exe
+E:\Documents\Tafe\Dip of Programming\Programming 3\Portfolio\Q3\PayrollSortingComparison\PayrollSortingComparison\obj\Debug\PayrollSortingComparison.pdb
+E:\Documents\Tafe\Dip of Programming\Programming 3\Portfolio\Q3\PayrollSortingComparison\PayrollSortingComparison\bin\Debug\PayrollSortingComparison.exe.config
+E:\Documents\Tafe\Dip of Programming\Programming 3\Portfolio\Q3\PayrollSortingComparison\PayrollSortingComparison\bin\Debug\PayrollSortingComparison.exe
+E:\Documents\Tafe\Dip of Programming\Programming 3\Portfolio\Q3\PayrollSortingComparison\PayrollSortingComparison\bin\Debug\PayrollSortingComparison.pdb
